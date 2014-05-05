@@ -1,0 +1,79 @@
+
+rect {
+  shape-rendering: crispEdges;
+}
+
+.grouping-title {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  color: #666;
+  position: absolute;
+  top: 40px;
+  left: 600px;
+}
+
+.cluster-label {
+  font-family: Arial;
+  font-size: 11px;
+  color: #666;
+  position: absolute;
+  text-align: center;
+  width: 120px;
+  padding: 3px 10px;
+}
+
+.btn-group {
+  position: absolute;
+}
+
+#tooltip {
+  font-family: Arial;
+  line-height: 22px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  opacity: 0.9;
+  width: 200px;
+  text-align: center;
+  background-color: #fefefe;
+  border: 1px solid #dfdfdf;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px #dfdfdf;
+  z-index: 1000;
+  display: none;
+}
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #fefefe;
+  position: absolute;
+  left: 94px;
+}
+.tip-catagory {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #666;
+}
+.tip-rule {
+  background-color: #ddd;
+  height: 1px;
+  line-height: 16px;
+}
+.tip-title {
+  font-size: 13px;
+    color: #000;
+}
+.tip-type {
+  font-style: italic;
+  color: #666;
+  font-size: 11px;
+}
+.tip-values {
+  padding: 5px 10px 10px 10px;
+  line-height: 12px;
+  font-size: 12px;
+}
