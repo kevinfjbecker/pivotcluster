@@ -170,7 +170,7 @@ var data = [{
     "designers": "Michael Matheny, Don Greenwood",
     "essayAuthor": "Stan!",
     "gameType": "Board Game",
-    "rating": 6.7
+    "rating": 6.7 // bgg 2014-05-07
 }, {
     "game": "Citadels",
     "edition": "English Edition",
