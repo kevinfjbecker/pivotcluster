@@ -116,7 +116,7 @@ var data = [{
     "designers": "Lewis Pulsipher",
     "essayAuthor": "Tom Dalgliesh",
     "gameType": "Board Game",
-    "rating": 7.3
+    "rating": 7.3 // bgg 2014-05-02
 }, {
     "game": "Button Men",
     "edition": "",
@@ -124,8 +124,8 @@ var data = [{
     "publisher": "Cheapass Games",
     "designers": "James Ernest",
     "essayAuthor": "Greg Stolze",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Dice Game",
+    "rating": 6.3 // bgg 2014-05-07
 }, {
     "game": "Call of Cthulhu",
     "edition": "First Edition",
@@ -133,8 +133,8 @@ var data = [{
     "publisher": "Chaosium",
     "designers": "Sandy Petersen",
     "essayAuthor": "Monte Cook",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.7 // rpggeek 2014-05-07
 }, {
     "game": "Carcassonne",
     "edition": "English Edition",
@@ -142,8 +142,8 @@ var data = [{
     "publisher": "Rio Grande Games",
     "designers": "Klaus-Jürgen Wrede",
     "essayAuthor": "Steven E. Schend",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.4 // bgg 2014-05-07
 }, {
     "game": "Car Wars",
     "edition": "Second Edition Compendium",
@@ -151,8 +151,8 @@ var data = [{
     "publisher": "Steve Jackson Games",
     "designers": "Chad Irby, Steve Jackson (US)",
     "essayAuthor": "Jeff Tidball",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.3 // bgg 2014-05-07
 }, {
     "game": "Champions",
     "edition": "Revised Edition",
@@ -160,8 +160,8 @@ var data = [{
     "publisher": "Hero Games",
     "designers": "Steve Peterson, George MacDonald",
     "essayAuthor": "Bill Bridges",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 6.7 // rpggeek 2014-05-07
 }, {
     "game": "Circus Maximus",
     "edition": "Revised Edition",
@@ -169,8 +169,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Michael Matheny, Don Greenwood",
     "essayAuthor": "Stan!",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.7
 }, {
     "game": "Citadels",
     "edition": "English Edition",
