@@ -62,7 +62,7 @@ var data = [{
     "designers": "Jonathan Tweet, Mark Rein-Hagen",
     "essayAuthor": "Stewart Wieck",
     "gameType": "Roleplaying Game",
-    "rating": "N/A"
+    "rating": 6.8 // rpggeek 2014-05-08
 }, {
     "game": "Axis & Allies",
     "edition": "Second Edition",
@@ -241,8 +241,8 @@ var data = [{
     "publisher": "TSR, Inc.",
     "designers": "Gary Gygax, Dave Arneson",
     "essayAuthor": "Richard Garfield",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.2 // rpggeek 2014-05-08
 }, {
     "game": "Dynasty League Baseball",
     "edition": "",
@@ -250,8 +250,8 @@ var data = [{
     "publisher": "Design Depot",
     "designers": "Michael Cieslinski",
     "essayAuthor": "William W. Connors",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.5 // bgg 2014-05-08
 }, {
     "game": "El Grande",
     "edition": "English Edition",
@@ -259,8 +259,8 @@ var data = [{
     "publisher": "Rio Grande Games",
     "designers": "Wolfgang Kramer, Richard Ulrich",
     "essayAuthor": "Christian T. Petersen",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.8 // bgg 2014-05-08
 }, {
     "game": "Empires in Arms",
     "edition": "Revised Edition",
@@ -268,8 +268,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Harry Rowland, Greg Pinder",
     "essayAuthor": "Alessio Cavatore",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.5 // bgg 2014-05-08
 }, {
     "game": "Empires of the Middle Ages",
     "edition": "First Edition",
@@ -277,8 +277,8 @@ var data = [{
     "publisher": "Simulations Publications, Inc.",
     "designers": "James F. Dunnigan, Redmond A. Simonsen, Anthony F. Buccini",
     "essayAuthor": "Timothy Brown",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-08
 }, {
     "game": "The Extraordinary Adventures of Baron Munchausen",
     "edition": "",
@@ -286,8 +286,8 @@ var data = [{
     "publisher": "Hogshead Publishing",
     "designers": "James Wallis",
     "essayAuthor": "Allen Varney",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.4 // bgg 2014-05-08
 }, {
     "game": "Fire and Fury",
     "edition": "",
@@ -295,8 +295,8 @@ var data = [{
     "publisher": "Dave Waxtel and Quantum Publishing",
     "designers": "Richard W. Hasenauer",
     "essayAuthor": "Phil Yates",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Miniatures Game",
+    "rating": 7.7 // bgg 2014-05-08
 }, {
     "game": "Flames of War",
     "edition": "Second Edition",
@@ -304,8 +304,8 @@ var data = [{
     "publisher": "Battlefront Miniatures",
     "designers": "Phil Yates",
     "essayAuthor": "William Jones",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Miniatures Game",
+    "rating": 7.1 // bgg 2014-05-08
 }, {
     "game": "Fluxx",
     "edition": "",
@@ -313,8 +313,8 @@ var data = [{
     "publisher": "Looney Labs",
     "designers": "Andrew Looney",
     "essayAuthor": "Rick Loomis",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 5.8 // bgg 2014-05-08
 }, {
     "game": "Formula Dé",
     "edition": "English Edition",
@@ -322,8 +322,8 @@ var data = [{
     "publisher": "Asmodée Editions",
     "designers": "Laurent Lavaur, Eric Randall",
     "essayAuthor": "John Kovalic",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.0 // bgg 2014-05-08
 }, {
     "game": "The Fury of Dracula",
     "edition": "First Edition",
@@ -331,8 +331,8 @@ var data = [{
     "publisher": "Games Workshop",
     "designers": "Stephen Hand",
     "essayAuthor": "Anothy J. Gallela",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.0 // bgg 2014-05-08
 }, {
     "game": "A Game of Thrones",
     "edition": "",
@@ -340,8 +340,8 @@ var data = [{
     "publisher": "Fantasy Flight Games",
     "designers": "Christian T. Petersen",
     "essayAuthor": "Jesse Scoble",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.8 // bgg 2014-05-08
 }, {
     "game": "Gettysburg",
     "edition": "First Edition",
