@@ -35,7 +35,7 @@ var w = 1200,
     	d.Age = Date.now() - Date.parse(d.Created);
     	d.x = Math.random() * w;
     	d.y = Math.random() * h;
-    	d.radius = 8;
+    	d.radius = d.rating === 'To do!' ? 8 : 2 * d.rating;
     	return d;
   	}),
   	dataKeys = [
@@ -46,7 +46,8 @@ var w = 1200,
       "essayAuthor",
       "gameType",
       "rating"
-    ];
+    ],
+    color = d3.scale.category10();
 
 addNodes(nodes);
 
@@ -73,10 +74,10 @@ function addNodes(nodes) {
       .attr("cx", function(d) { return d.x; })
       .attr("cy", function(d) { return d.y; })
       .style("stroke", function (d) {
-        return d3.rgb(color(d)).darker(2);
+        return d3.rgb(color(d.gameType)).darker(2);
       })
       .style("fill", function (d) {
-        return d3.rgb(color(d)).brighter(1);
+        return d3.rgb(color(d.gameType)).brighter(1);
       })
       .on('mouseover', function(d){
         showTooltip(d);
@@ -188,10 +189,6 @@ function millisToDays (n) {
   return Math.floor(n / 1000 / 60 / 60 / 24);
 }
 
-function color(d) {
-  return 'steelblue';
-}
-
 // Resolves collisions between d and all other circles.
 function collide(alpha) {
   var quadtree = d3.geom.quadtree(nodes);
@@ -206,7 +203,7 @@ function collide(alpha) {
         var x = d.x - quad.point.x,
             y = d.y - quad.point.y,
             l = Math.sqrt(x * x + y * y),
-            r = 2 * d.radius;
+            r = d.radius + quad.point.radius;
         if (l < r) {
           l = (l - r) / l * alpha;
           d.x -= x *= l;

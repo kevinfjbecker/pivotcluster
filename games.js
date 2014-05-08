@@ -214,7 +214,7 @@ var data = [{
     "publisher": "TSR, Inc.",
     "designers": "Mike Carr",
     "essayAuthor": "Skip Williams",
-    "gameType": "To do!",
+    "gameType": "Board Game",
     "rating": 6.8 // bgg 2014-05-08
 }, {
     "game": "Descent",
@@ -349,8 +349,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Charles S. Roberts",
     "essayAuthor": "Lou Zocchi",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 5.5 // bgg 2014-05-08
 }, {
     "game": "Ghostbusters",
     "edition": "",
@@ -358,8 +358,8 @@ var data = [{
     "publisher": "West End Games",
     "designers": "Sandy Petersen, Lynn Willis, Greg Stafford, Greg Costikyan",
     "essayAuthor": "James Wallis",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.4 // rpggeek 2014-05-08
 }, {
     "game": "The Great Khan Game",
     "edition": "",
@@ -367,8 +367,8 @@ var data = [{
     "publisher": "TSR, Inc.",
     "designers": "Tom Wham, Richard Hamblen",
     "essayAuthor": "James M. Ward",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.6 // bgg 2014-05-08
 }, {
     "game": "Hammer of the Scots",
     "edition": "",
@@ -376,8 +376,8 @@ var data = [{
     "publisher": "Columbia Games",
     "designers": "Jerry Taylor, Tom Dalgliesh",
     "essayAuthor": "Gav Thorpe",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.6 // bgg 2014-05-08
 }, {
     "game": "Here I Stand",
     "edition": "",
@@ -385,8 +385,8 @@ var data = [{
     "publisher": "GMT Games",
     "designers": "Ed Beach, Matthew Beach, Ananda Gupta, Dave Cross",
     "essayAuthor": "Uli Blennemann",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 8.0 // bgg 2014-05-08
 }, {
     "game": "A House Divided",
     "edition": "First Edition",
@@ -394,8 +394,8 @@ var data = [{
     "publisher": "Game Designers' Workshop",
     "designers": "Frank Chadwick",
     "essayAuthor": "S. Craig Taylor Jr.",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.1 // bgg 2014-05-08
 }, {
     "game": "Illuminati",
     "edition": "First Edition",
@@ -403,8 +403,8 @@ var data = [{
     "publisher": "Steve Jackson Games",
     "designers": "Steve Jackson (US)",
     "essayAuthor": "Scott Haring",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 6.2 // bgg 2014-05-08
 }, {
     "game": "Johnny Reb",
     "edition": "Third Edition",
@@ -412,8 +412,8 @@ var data = [{
     "publisher": "The Johnny Reb Game Company",
     "designers": "John Hill, Steve St. Clair, Bernie Kempinski",
     "essayAuthor": "Dana Lombardy",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Miniatures Game",
+    "rating": 7.2 // bgg 2014-05-08
 }, {
     "game": "Junta",
     "edition": "Second Edition",
@@ -421,8 +421,8 @@ var data = [{
     "publisher": "West End Games",
     "designers": "Vincent Tsao, Eric Goldberg, Ben Grossman",
     "essayAuthor": "Darren Watts",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.9 // bgg 2014-05-08
 }, {
     "game": "Kingmaker",
     "edition": "Revised Edition",
@@ -430,8 +430,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Andrew McNeil, Mick (Mike) Uhl, Don Turnbull",
     "essayAuthor": "Greg Stafford",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.4 // bgg 2014-05-08
 }, {
     "game": "Kremlin",
     "edition": "English Edition",
@@ -439,8 +439,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Urs Hostettler, Stefan Hosli",
     "essayAuthor": "Lester Smith",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.0 // bgg 2014-05-08
 }, {
     "game": "Legend of the Five Rings",
     "edition": "",
@@ -448,8 +448,8 @@ var data = [{
     "publisher": "Alderac Entertainment Group",
     "designers": "David Williams, John Wick, Matt Staroscik, John Zinser, Ryan S. Dancey, David Seay, Matt Wilson",
     "essayAuthor": "Wolfgang Baur",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 7.1 // bgg 2014-05-08
 }, {
     "game": "Lensman",
     "edition": "Second Edition",
@@ -457,8 +457,8 @@ var data = [{
     "publisher": "Spartan International",
     "designers": "Philip N. Pritchard",
     "essayAuthor": "Marc W. Miller",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.3 // bgg 2014-05-08
 }, {
     "game": "London's Burning",
     "edition": "",
@@ -466,8 +466,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Ben Knight, Mark Simonitch",
     "essayAuthor": "Ted S. Raicer",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.8 // bgg 2014-05-08
 }, {
     "game": "Lord of the Rings",
     "edition": "",
@@ -475,8 +475,8 @@ var data = [{
     "publisher": "Fantasy Flight Games",
     "designers": "Reiner Knizia",
     "essayAuthor": "Teeuwynn Woodruff",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.9 // bgg 2014-05-08
 }, {
     "game": "Machiavelli",
     "edition": "First Edition",
