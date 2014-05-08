@@ -178,8 +178,8 @@ var data = [{
     "publisher": "Fantasy Flight Games",
     "designers": "Bruno Faidutti",
     "essayAuthor": "Tom Jolly",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 7.2 // bgg 2014-05-08
 }, {
     "game": "Civilization",
     "edition": "First U.S. Edition",
@@ -187,8 +187,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Francis Tresham",
     "essayAuthor": "Steven Savile",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.6 // bgg 2014-05-08
 }, {
     "game": "Cosmic Encounter",
     "edition": "First Edition",
@@ -196,8 +196,8 @@ var data = [{
     "publisher": "Eon",
     "designers": "Bill Eberle, Jack Kittredge, Peter Olotka",
     "essayAuthor": "Bruno Faidutti",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.0 // bgg 2014-05-08
 }, {
     "game": "Cosmic Wimpout",
     "edition": "",
@@ -205,8 +205,8 @@ var data = [{
     "publisher": "C3, Inc",
     "designers": "The Cosmic Wimpout Clubhouse",
     "essayAuthor": "Andrew Looney",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Dice Game",
+    "rating": 5.9 // bgg 2014-05-08
 }, {
     "game": "Dawn Patrol",
     "edition": "Seventh Edition",
@@ -215,7 +215,7 @@ var data = [{
     "designers": "Mike Carr",
     "essayAuthor": "Skip Williams",
     "gameType": "To do!",
-    "rating": "To do!"
+    "rating": 6.8 // bgg 2014-05-08
 }, {
     "game": "Descent",
     "edition": "",
@@ -223,8 +223,8 @@ var data = [{
     "publisher": "Fantasy Flight Games",
     "designers": "Kevin Wilson",
     "essayAuthor": "Alan R. Moon",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.4 // bgg 2014-05-08
 }, {
     "game": "Diplomacy",
     "edition": "",
@@ -232,8 +232,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Allan B. Calhamer",
     "essayAuthor": "Larry Harris",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.1 // bgg 2014-05-08
 }, {
     "game": "Dungeons & Dragons",
     "edition": "First Edition",
