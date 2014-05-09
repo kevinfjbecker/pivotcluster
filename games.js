@@ -286,7 +286,7 @@ var data = [{
     "publisher": "Hogshead Publishing",
     "designers": "James Wallis",
     "essayAuthor": "Allen Varney",
-    "gameType": "Roleplaying Game",
+    "gameType": "Storytelling Game",
     "rating": 7.4 // bgg 2014-05-08
 }, {
     "game": "Fire and Fury",
@@ -484,8 +484,8 @@ var data = [{
     "publisher": "Battleline Publications",
     "designers": "James G. Woods, S. Craig Taylor Jr.",
     "essayAuthor": "Mike Breault",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.1 // bgg 2014-05-09
 }, {
     "game": "Magic: The Gathering",
     "edition": "",
@@ -493,8 +493,8 @@ var data = [{
     "publisher": "Wizards of the Coast",
     "designers": "Richard Garfield",
     "essayAuthor": "Jordan Weisman",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 7.4 // bgg 2014-05-09
 }, {
     "game": "Marvel Super Heroes",
     "edition": "Basic Set",
@@ -502,8 +502,8 @@ var data = [{
     "publisher": "TSR, Inc.",
     "designers": "Jeff Grubb, Steve Winter",
     "essayAuthor": "Steve Kenson",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 6.5 // rpggeek 2014-05-09
 }, {
     "game": "Metamorphosis Alpha",
     "edition": "Fourth Edition",
@@ -511,8 +511,8 @@ var data = [{
     "publisher": "Mudpuppy Games",
     "designers": "James M. Ward",
     "essayAuthor": "Gary Gygax",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 6.8 // rpggeek 2014-05-09
 }, {
     "game": "My Life with Master",
     "edition": "",
@@ -520,8 +520,8 @@ var data = [{
     "publisher": "Half-Meme Press",
     "designers": "Paul Czege",
     "essayAuthor": "Greg Costikyan",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 6.8 // rpggeek 2014-05-09
 }, {
     "game": "Mythos",
     "edition": "",
@@ -529,8 +529,8 @@ var data = [{
     "publisher": "Chaosium",
     "designers": "Charlie Krank",
     "essayAuthor": "John D. Rateliff",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 6.6 // bgg 2014-05-09
 }, {
     "game": "Napoleon's Last Battles",
     "edition": "First Edition",
@@ -538,8 +538,8 @@ var data = [{
     "publisher": "Simulations Publications, Inc.",
     "designers": "Kevin Zucker, J. A. Nelson",
     "essayAuthor": "Chris \"Gerry\" Klug",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-09
 }, {
     "game": "Naval War",
     "edition": "First Edition",
@@ -547,8 +547,8 @@ var data = [{
     "publisher": "Battleline Publications",
     "designers": "S. Craig Taylor Jr., Nel Zimmerer",
     "essayAuthor": "John Scott Tynes",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 6.2 // bgg 2014-05-09
 }, {
     "game": "Ogre",
     "edition": "First Edition",
@@ -556,8 +556,8 @@ var data = [{
     "publisher": "Metagaming",
     "designers": "Steve Jackson (US)",
     "essayAuthor": "Erick Wujcik",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.0 // bgg 2014-05-09
 }, {
     "game": "Once Upon a Time",
     "edition": "Second Edition",
@@ -565,8 +565,8 @@ var data = [{
     "publisher": "Atlas Games",
     "designers": "Richard Lambert, Andrew Rilestone, James Wallis",
     "essayAuthor": "Marc Gascoigne",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Storytelling Game",
+    "rating": 6.5 // bgg 2014-05-09
 }, {
     "game": "PanzerBlitz",
     "edition": "First Edition",
@@ -574,8 +574,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "James F. Dunnigan",
     "essayAuthor": "Mike Bennighof",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.4 // bgg 2014-05-09
 }, {
     "game": "Paranoia",
     "edition": "First Edition",
@@ -583,8 +583,8 @@ var data = [{
     "publisher": "West End Games",
     "designers": "Greg Costikyan, Dan Gelber, Eric Goldberg, Ken Rolston",
     "essayAuthor": "Steve Jackson (US)",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.6 // rpggeek 2014-05-09
 }, {
     "game": "Pendragon",
     "edition": "Fifth Edition",
@@ -592,8 +592,8 @@ var data = [{
     "publisher": "White Wolf",
     "designers": "Greg Stafford",
     "essayAuthor": "Shannon Appelcline",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 8.0 // rpggeek 2014-05-09
 }, {
     "game": "Pirate's Cove",
     "edition": "English Edition",
@@ -601,8 +601,8 @@ var data = [{
     "publisher": "Days of Wonder",
     "designers": "Paul Randles, Daniel Stahl",
     "essayAuthor": "JD Wiker",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.6 // bgg 2014-05-09
 }, {
     "game": "Plague!",
     "edition": "",
@@ -610,8 +610,8 @@ var data = [{
     "publisher": "B&B Productions",
     "designers": "Steven Barsky",
     "essayAuthor": "Richard H. Berg",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 5.4 // bgg 2014-05-09
 }, {
     "game": "Power Grid",
     "edition": "English Edition",
@@ -619,8 +619,8 @@ var data = [{
     "publisher": "Rio Grande Games",
     "designers": "Friedemann Friese",
     "essayAuthor": "Martin Wallace",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 8.0 // bgg 2014-05-09
 }, {
     "game": "Puerto Rico",
     "edition": "English Edition",
@@ -628,8 +628,8 @@ var data = [{
     "publisher": "Rio Grande Games",
     "designers": "Andreas Seyfarth",
     "essayAuthor": "Tom Wham",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 8.2 // bgg 2014-05-09
 }, {
     "game": "Renaissance of Infantry",
     "edition": "Strategy & Tactics #22 July/Aug 1970",
@@ -637,8 +637,8 @@ var data = [{
     "publisher": "Simulations Publications, Inc.",
     "designers": "Albert A. Nofi, Redmond A. Simonsen",
     "essayAuthor": "Joseph Miranda",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.3 // bgg 2014-05-09
 }, {
     "game": "RoboRally",
     "edition": "First Edition",
@@ -646,8 +646,8 @@ var data = [{
     "publisher": "Wizards of the Coast",
     "designers": "Richard Garfield",
     "essayAuthor": "James Ernest",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-09
 }, {
     "game": "RuneQuest",
     "edition": "First Edition",
@@ -655,8 +655,8 @@ var data = [{
     "publisher": "Chaosium",
     "designers": "Steve Perrin, Ray Turney, Steve Henderson, Warren James, Greg Stafford",
     "essayAuthor": "Paul Jaquays",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.5 // rpggeek 2014-05-09
 }, {
     "game": "The Settlers of Catan",
     "edition": "English Edition",
@@ -664,8 +664,8 @@ var data = [{
     "publisher": "Mayfair Games",
     "designers": "Klaus Teuber",
     "essayAuthor": "Richard Dansky",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.4 // bgg 2014-05-09
 }, {
     "game": "Shadowfist",
     "edition": "",
@@ -673,8 +673,8 @@ var data = [{
     "publisher": "Daedalus Entertainment",
     "designers": "Robin D. Laws, Jose Garcia",
     "essayAuthor": "Ken St. Andre",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 7.1 // bgg 2014-05-09
 }, {
     "game": "Shadowrun",
     "edition": "Second Edition",
@@ -682,8 +682,8 @@ var data = [{
     "publisher": "FASA Corporation",
     "designers": "Jordan Weisman, Bob Charrette, Paul Hume, Tom Dowd, L. Ross Babcock III, Sam Lewis, Dave Wylie",
     "essayAuthor": "Steven S. Long",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 6.9 // rpggeek 2014-05-09
 }, {
     "game": "Shadows over Camelot",
     "edition": "English Edition",
@@ -691,8 +691,8 @@ var data = [{
     "publisher": "Days of Wonder",
     "designers": "Serge Laget, Bruno Cathala",
     "essayAuthor": "Peter Corless",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-09
 }, {
     "game": "Silent Death: The Next Millennium",
     "edition": "",
@@ -700,8 +700,8 @@ var data = [{
     "publisher": "Iron Crown Enterprises",
     "designers": "Kevin Barrett, Matt Forbeck",
     "essayAuthor": "Dale Donovan",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.4 // bgg 2014-05-09
 }, {
     "game": "Space Hulk",
     "edition": "First Edition",
@@ -709,8 +709,8 @@ var data = [{
     "publisher": "Games Workshop",
     "designers": "Richard Halliwell",
     "essayAuthor": "Matt Forbeck",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.5 // bgg 2014-05-09
 }, {
     "game": "Squad Leader",
     "edition": "",
@@ -718,8 +718,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "John Hill, Don Greenwood",
     "essayAuthor": "Ray Winninger",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.4 // bgg 2014-05-09
 }, {
     "game": "Stalingrad",
     "edition": "First Edition",
@@ -727,8 +727,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Thomas Shaw, Lindsley Schutz",
     "essayAuthor": "Lewis Pulsipher",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 5.7 // bgg 2014-05-09
 }, {
     "game": "Star Fleet Battles",
     "edition": "Designer's Edition",
@@ -736,8 +736,8 @@ var data = [{
     "publisher": "Task Force Games",
     "designers": "Stephen V. Cole",
     "essayAuthor": "Bruce Nesmith",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.7 // bgg 2014-05-09
 }, {
     "game": "The Sword and the Flame",
     "edition": "",
@@ -745,8 +745,8 @@ var data = [{
     "publisher": "Yaquinto Publications",
     "designers": "Larry V. Brom",
     "essayAuthor": "Steve Winter",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Miniatures Game",
+    "rating": 7.5 // bgg 2014-05-09
 }, {
     "game": "Tales of the Arabian Nights",
     "edition": "",
@@ -754,8 +754,8 @@ var data = [{
     "publisher": "West End Games",
     "designers": "Eric Goldberg",
     "essayAuthor": "Jeff Grubb",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-09
 }, {
     "game": "Talisman",
     "edition": "Second Edition",
@@ -763,8 +763,8 @@ var data = [{
     "publisher": "Games Workshop",
     "designers": "Robert Harris",
     "essayAuthor": "Shane Lacy Hensley",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.5 // bgg 2014-05-09
 }, {
     "game": "Terrible Swift Sword",
     "edition": "First Edition",
@@ -772,8 +772,8 @@ var data = [{
     "publisher": "Simulations Publications, Inc.",
     "designers": "Richard H. Berg",
     "essayAuthor": "Douglas Niles",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-09
 }, {
     "game": "Thurn and Taxis",
     "edition": "English Edition",
@@ -781,8 +781,8 @@ var data = [{
     "publisher": "Rio Grande Games",
     "designers": "Karen Seyfarth, Andreas Seyfarth",
     "essayAuthor": "Ed Greenwood",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-09
 }, {
     "game": "Ticket to Ride",
     "edition": "English Edition",
