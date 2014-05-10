@@ -790,8 +790,8 @@ var data = [{
     "publisher": "Days of Wonder",
     "designers": "Alan R. Moon",
     "essayAuthor": "Mike Fitzgerald",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.5 // bgg 2014-05-10
 }, {
     "game": "Tigris & Euphrates",
     "edition": "English Edition",
@@ -799,8 +799,8 @@ var data = [{
     "publisher": "Mayfair Games",
     "designers": "Reiner Knizia",
     "essayAuthor": "Thomas Lehmann",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.8 // bgg 2014-05-10
 }, {
     "game": "Tikal",
     "edition": "English Edition",
@@ -808,8 +808,8 @@ var data = [{
     "publisher": "Rio Grande Games",
     "designers": "Michael Kiesling, Wolfgang Kramer",
     "essayAuthor": "Warren Spector",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.4 // bgg 2014-05-10
 }, {
     "game": "Toon",
     "edition": "",
@@ -817,8 +817,8 @@ var data = [{
     "publisher": "Steve Jackson Games",
     "designers": "Greg Costikyan, Warren Spector",
     "essayAuthor": "David \"Zeb\" Cook",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 6.4 // rpggeek 2014-05-10
 }, {
     "game": "Traveller",
     "edition": "First Edition",
@@ -826,8 +826,8 @@ var data = [{
     "publisher": "Game Designers' Workshop",
     "designers": "Marc W. Miller",
     "essayAuthor": "Mike Pondsmith",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 8.3 // bgg 2014-05-10
 }, {
     "game": "Twilight Struggle",
     "edition": "",
@@ -835,8 +835,8 @@ var data = [{
     "publisher": "GMT Games",
     "designers": "Ananda Gupta, Jason Matthews",
     "essayAuthor": "Zev Shlasigner",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 8.3 // bgb 2014-05-10
 }, {
     "game": "Unknown Armies",
     "edition": "First Edition",
@@ -844,8 +844,8 @@ var data = [{
     "publisher": "Atlas Games",
     "designers": "Greg Stolze, John Scott Tynes",
     "essayAuthor": "Kenneth Hite",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.6 // rpggeek 2014-05-10
 }, {
     "game": "Up Front",
     "edition": "",
@@ -853,8 +853,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Courtney F. Allen",
     "essayAuthor": "Sandy Petersen",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.9 // bgg 2014-05-10
 }, {
     "game": "Vampire: The Eternal Struggle",
     "edition": "Third Edition",
@@ -862,8 +862,8 @@ var data = [{
     "publisher": "White Wolf",
     "designers": "Richard Garfield, L. Scott Johnson, Robert Goudie",
     "essayAuthor": "R. Hyrum Savage",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Card Game",
+    "rating": 7.0 // bgg 2014-05-10
 }, {
     "game": "Vampire: The Masquerade",
     "edition": "First Edition",
@@ -871,8 +871,8 @@ var data = [{
     "publisher": "White Wolf",
     "designers": "Mark Rein-Hagen",
     "essayAuthor": "George Vasilakos",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Roleplaying Game",
+    "rating": 7.2 // rpggeek 2014-05-10
 }, {
     "game": "Vinci",
     "edition": "",
@@ -880,8 +880,8 @@ var data = [{
     "publisher": "Descartes Editeur",
     "designers": "Philippe Keyaerts",
     "essayAuthor": "Kevin Wilson",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.2 // bgg 2014-05-10
 }, {
     "game": "War and Peace",
     "edition": "",
@@ -889,8 +889,8 @@ var data = [{
     "publisher": "Avalon Hill",
     "designers": "Mark D. McLaughlin",
     "essayAuthor": "R. A. Salvatore",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.6 // bgg 2014-05-10
 }, {
     "game": "Warhammer 40,000",
     "edition": "Fourth Edition",
@@ -898,8 +898,8 @@ var data = [{
     "publisher": "Games Workshop",
     "designers": "Rick Priestly, Andy Chambers, Gav Thorpe",
     "essayAuthor": "Jack Emmert",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Miniatures Game",
+    "rating": 6.4 // bgg 2014-05-10
 }, {
     "game": "The Warlock of Firetop Mountain",
     "edition": "First Edition",
@@ -907,8 +907,8 @@ var data = [{
     "publisher": "Puffin Books",
     "designers": "Steve Jackson (UK), Ian Livingstone",
     "essayAuthor": "Chris Pramas",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Book",
+    "rating": 5.8 // bgg 2014-05-10
 }, {
     "game": "The Warlord",
     "edition": "Red Box Edition",
@@ -916,8 +916,8 @@ var data = [{
     "publisher": "Self-published",
     "designers": "Mike Hayes",
     "essayAuthor": "Steve Jackson (UK)",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 6.8 // bgg 2014-05-10
 }, {
     "game": "Wiz-War",
     "edition": "Fifth Edition",
@@ -925,6 +925,6 @@ var data = [{
     "publisher": "Jolly Games",
     "designers": "Tom Jolly",
     "essayAuthor": "John Wick",
-    "gameType": "To do!",
-    "rating": "To do!"
+    "gameType": "Board Game",
+    "rating": 7.3 // bgg 2014-05-10
 }]
