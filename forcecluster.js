@@ -28,14 +28,10 @@ var w = 1200,
 		  .attr("cy", function(d) { return d.y; });
 
 		}),
-	ageRange = d3.extent(data, function(d){
-    	return Date.now() - Date.parse(d.Created);
-    }),
     nodes = data.map(function (d) {
-    	d.Age = Date.now() - Date.parse(d.Created);
     	d.x = Math.random() * w;
     	d.y = Math.random() * h;
-    	d.radius = d.rating === 'To do!' ? 8 : 2 * d.rating;
+    	d.radius = 2 * d.rating;
     	return d;
   	}),
   	dataKeys = [
