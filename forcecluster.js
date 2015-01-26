@@ -15,7 +15,7 @@ var w = 1200,
 		.on("tick", function(e) {
 
 		  // from "attractor" block
-		  var k = e.alpha * 0.44;
+		  var k = e.alpha * 0.7;
 		  nodes.forEach(function(node) {
 		    var center = clusters[node.type];
 		    node.x += (center.x - node.x) * k;
